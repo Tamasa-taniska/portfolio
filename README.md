@@ -16,11 +16,9 @@ Hi, I'm Tamasa, a passionate individual with a knack for combining technical ski
 
 ## Projects
 Here are some of the exciting projects I've worked on:
-1. Airbnb Clone  
-   A feature-rich clone of Airbnb, showcasing user-friendly design and functional components.
+1. Airbnb Clone:  A feature-rich clone of Airbnb, showcasing user-friendly design and functional components.
 
-2. Instagram Clone
-   A replica of Instagram, focused on recreating the social media experience with smooth interactions.
+2. Instagram Clone: A replica of Instagram, focused on recreating the social media experience with smooth interactions.
 
 Feel free to reach out for more details or collaboration ideas!
 
